@@ -1,0 +1,8 @@
+{
+  "name": "Remix Bible Cross Reference Tool",
+  "description": "Telugu BSI and English KJV Bible cross reference tool featuring verse and Bible word concordance search, Daily Verse reflections, custom wallpaper background generator, study notes journal, and Android WebAPK/PWA app install.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

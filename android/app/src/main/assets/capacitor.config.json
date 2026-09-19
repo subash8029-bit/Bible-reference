@@ -1,0 +1,8 @@
+{
+	"appId": "com.bibleref.telugubible",
+	"appName": "Bible Cross Reference",
+	"webDir": "dist",
+	"server": {
+		"androidScheme": "https"
+	}
+}
